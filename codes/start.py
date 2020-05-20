@@ -29,7 +29,7 @@ import cv2
 #disk. it would pass number segmentation to segmentate the number
 
 
-img_path = '../test/task4/'
+img_path = '../testImages/'
 
 write_path= '/output/'
 training_path = '../training/'
